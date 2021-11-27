@@ -1,0 +1,24 @@
+{
+  "name": "PGR301_H21Eksamen_2021",
+  "version": "1.0.0",
+  "description": "Dev Ops Exam",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyblueman/PGR301_H21Eksamen_2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyblueman/PGR301_H21Eksamen_2021/issues"
+  },
+  "homepage": "https://github.com/dannyblueman/PGR301_H21Eksamen_2021#readme"
+}
