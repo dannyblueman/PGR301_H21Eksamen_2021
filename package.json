@@ -4,11 +4,9 @@
   "description": "Dev Ops Exam",
   "main": "index.js",
   "dependencies": {
-    "jest": "^27.1.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
   },
   "repository": {
     "type": "git",
