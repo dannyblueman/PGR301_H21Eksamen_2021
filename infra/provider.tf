@@ -7,7 +7,7 @@ terraform {
   }
   backend "s3" {
     bucket = "pgr301-danib-terraform"
-    key    = "glennbech/06-terraform-intro.state"
+    key    = "danib/terraform-in-pipeline.state"
     region = "eu-west-1"
   }
 }
