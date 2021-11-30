@@ -9,19 +9,19 @@ Følgende oppgaver har blitt besvart i denne innleveringen:
 Den beste forbedringen teamet kan gjøre i henhold til arbeid med kildekode og versjonskontroll er å innføre branch
 protection på GitHub-repositoriet.
 
-![settings](https://imgur.com/HAWkenD)
+![settings](branch.png)
 
 Når man er på sitt repository, så trykker man på Settings-tabben og deretter Branches under valgene på venstre side.
 
 Neste steg er å trykke på Add rule-knappen som er til høyre for Branch protection rules.
 
-![add rule](https://imgur.com/1O5ZfU7)
+![add rule](branch2.png)
 
 Her er det flere valg man kan ta som vil gjøre arbeidsflyten bedre og mer effektiv. Man kan krysse av for Require
 status checks to pass before merging, og tilrettelegge for at kode som ikke kompilerer eller tester som failer
 blir markert med en Error eller Failure state, som da ikke kan merges til main før dette er rettet opp i.
 
-![rules](https://imgur.com/xiGXi5f)
+![rules](branch3.png)
 
 Man kan krysse av for Require a pull request before merging og Require approvals for å forsikre seg om at minst
 én annen person på teamet går gjennom koden og godkjenner det før det blir merget til main.
